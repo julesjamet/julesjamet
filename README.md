@@ -1,6 +1,6 @@
 ### Hi there, I'm Jules 👋
 
-## I'm a Husband, Father, Full-Stack Developer !!
+## I'm a Husband, Father & Full-Stack Developer !!
 
 - 🔭 I started with Ruby on rails !
 - 🌱 I’m currently diving in the javascript world 🤣
@@ -38,9 +38,9 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julesjamet&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](github-readme-stats.julesjamet.vercel.app/api?username=julesjamet&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesjamet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats.julesjamet.vercel.app/api/top-langs/?username=julesjamet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
