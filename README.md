@@ -38,6 +38,8 @@
 <br />
 <br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julesjamet&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 [website]: https://julesjamet.dev
