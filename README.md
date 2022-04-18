@@ -1,11 +1,9 @@
 ### Hi there, I'm Jules 👋
 
-## I'm a Husband, Father & Full-Stack Developer !!
+## Full-Stack Developer !!
 
 - 🔭 I started with Ruby on rails !
 - 🌱 I’m currently diving in the javascript world 🤣
-- 👯 I’m looking for a remote job
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 <!-- ### Spotify Playing 🎧
 
